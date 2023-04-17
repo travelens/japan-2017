@@ -1,22 +1,10 @@
-# Trip template for Travelens (Travels Through a Lens)
+# Tasmania 2018
 
-Trip template for my travelogue web site. This is used to create a new repository for storing a trip.
+We visited Japan in 21 March to 1 April 2017. The trip was organised by Dan Campbell of [InsideJapan Tours](https://www.insidejapantours.com/).
 
-This template is written in HTML5, CSS, [UnoCSS](https://uno.antfu.me/)
-[Typescript](https://www.typescriptlang.org) and
-[MarkDoc](https://markdoc.dev) using
-[Astro](https://astro.build) as a web framework and static site generator.
+Dan created a fantastic itinerary for us. We started with a few days of Tokyo, then headed down south to Okayama and Hiroshima, before returning via Osaka and Kyoto.
 
-- Astro is the all-in-one web framework designed for speed. Pull your content from anywhere and deploy everywhere, all powered by your favorite UI components and libraries.
-- Markdoc is a Markdown-based document format and a framework for content publishing.
-- TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
-- UnoCSS is an atomic-CSS engine instead of a framework. Everything is designed with flexibility and performance in mind. There are no core utilities in UnoCSS, all functionalities are provided via presets.
-
-It is open source (MIT licence), and trips created using this template should be deployed using Github Pages as a subsite underneath the travelens master site eg. `travelens.github.io/trip`.
-
-The site supports search via Fuse.js, sitemap, rss, SEO tags. The sitemap, rss and fuse search indexes are meant to be copied into the parent site (travelens) rather than used directly.
-
-The site design is based on [Digizu's TailwindCSS templates](https://templates.digizu.co.uk/), particularly Impulse.
+All in all, it was a fantastic journey, and I hope the following blog pages captures some of the magic from that trip.
 
 ## 🚀 Project Structure
 

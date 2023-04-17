@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "japan-2017",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "We returned to Japan in 2017 and visited Tokyo, then headed down south to Okayama and Hiroshima, returning via Osaka and Kyoto.",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
