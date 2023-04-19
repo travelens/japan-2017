@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - Lost River Delta'
-date: 2017-03-23T12:00:00+08:00
+date: 2017-03-23T12:00:00+09:00
 description: Deep within the remote Central American jungles, Lost River Delta represents the ruins of an ancient civilization.
 trip: Japan 2017
 place: Japan

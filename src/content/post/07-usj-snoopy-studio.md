@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Snoopy Studio'
-date: 2017-03-28T12:00:00+08:00
+date: 2017-03-28T12:00:00+09:00
 description: The Snoopy Studio had a variety of cute mini attractions and lots of opportunities to pose for photos.
 trip: Japan 2017
 place: Japan

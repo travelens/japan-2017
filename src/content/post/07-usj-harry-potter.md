@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Harry Potter'
-date: 2017-03-28T14:00:00+08:00
+date: 2017-03-28T14:00:00+09:00
 description: The Wizarding World of Harry Potter.
 trip: Japan 2017
 place: Japan

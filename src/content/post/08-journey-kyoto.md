@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Journey to Kyoto'
-date: 2017-03-29T07:00:00+08:00
+date: 2017-03-29T07:00:00+09:00
 description: Today we are going to Kyoto and we decided to take the Shinkansen there.
 trip: Japan 2017
 place: Japan

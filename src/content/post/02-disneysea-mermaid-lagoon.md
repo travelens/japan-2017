@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - Mermaid Lagoon'
-date: 2017-03-23T14:00:00+08:00
+date: 2017-03-23T14:00:00+09:00
 description: Mermaid Lagoon features the world of Ariel, the little mermaid, and her aquatic friends.
 trip: Japan 2017
 place: Japan

@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Kyoto (morning)'
-date: 2017-03-29T08:00:00+08:00
+date: 2017-03-29T08:00:00+09:00
 description: Kyoto (京都), is the capital city of Kyoto Prefecture in the Kansai region. It was the capital of Japan from 794-1869.
 trip: Japan 2017
 place: Japan

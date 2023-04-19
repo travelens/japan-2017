@@ -1,6 +1,6 @@
 ---
 title: 'Day 2: DisneySea'
-date: 2017-03-23T09:00:00+08:00
+date: 2017-03-23T09:00:00+09:00
 description: Today we are visiting DisneySea, a unique nautically oriented theme park, unlike the other Disney theme parks around the world.
 trip: Japan 2017
 place: Japan

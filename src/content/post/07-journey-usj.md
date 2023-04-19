@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Journey to USJ'
-date: 2017-03-28T09:00:00+08:00
+date: 2017-03-28T09:00:00+09:00
 description: Today we visited Universal Studios Japan (or USJ as its more popularly known as). We are excited to see the new Harry Potter attractions!
 trip: Japan 2017
 place: Japan

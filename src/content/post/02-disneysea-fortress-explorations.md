@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - Fortress Explorations'
-date: 2017-03-23T15:00:00+08:00
+date: 2017-03-23T15:00:00+09:00
 description: This feature a fortress and a galleon containing various exhibitions.
 trip: Japan 2017
 place: Japan

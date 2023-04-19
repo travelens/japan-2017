@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Kyoto (Ginkaku-Ji)'
-date: 2017-03-29T09:00:00+08:00
+date: 2017-03-29T09:00:00+09:00
 description: Ginkaku-ji (銀閣寺), or Temple of the Silver Pavilion, is officially named Jishō-ji (慈照寺) and built for a Shogun who became a Buddhist monk.
 trip: Japan 2017
 place: Japan

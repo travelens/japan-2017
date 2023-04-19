@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - Mediterranean Harbor'
-date: 2017-03-23T09:30:00+08:00
+date: 2017-03-23T09:30:00+09:00
 description: Mediterranean Harbor has the ambience of a romantic Southern European port, located at the entrance of the theme park.
 trip: Japan 2017
 place: Japan

@@ -1,6 +1,6 @@
 ---
 title: 'Day 6: Osaka Dinner'
-date: 2017-03-28T18:00:00+08:00
+date: 2017-03-28T18:00:00+09:00
 description: Eating pasta at Umeda
 trip: Japan 2017
 place: Japan

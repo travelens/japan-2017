@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Rest of the Park'
-date: 2017-03-28T15:00:00+08:00
+date: 2017-03-28T15:00:00+09:00
 description: Universal Studios Japan currently has eight sections - Hollywood, New York, San Francisco, Jurassic Park, Waterworld, Amity Village, Universal Wonderland and The Wizarding World of Harry Potter.
 trip: Japan 2017
 place: Japan

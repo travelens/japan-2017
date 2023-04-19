@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - Port Discovery'
-date: 2017-03-23T10:30:00+08:00
+date: 2017-03-23T10:30:00+09:00
 description: This futuristic marina is located across the horizons of time.
 trip: Japan 2017
 place: Japan

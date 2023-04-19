@@ -1,6 +1,6 @@
 ---
 title: 'DisneySea - American Waterfront'
-date: 2017-03-23T10:00:00+08:00
+date: 2017-03-23T10:00:00+09:00
 description: New York Harbor conveys the excitement of the big city.
 trip: Japan 2017
 place: Japan

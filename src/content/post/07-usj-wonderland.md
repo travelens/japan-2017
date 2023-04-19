@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Wonderland'
-date: 2017-03-28T11:00:00+08:00
+date: 2017-03-28T11:00:00+09:00
 description: Universal Wonderland is a section aimed at children and families.
 trip: Japan 2017
 place: Japan

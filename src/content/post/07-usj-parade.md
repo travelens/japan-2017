@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Afternoon Parade'
-date: 2017-03-28T16:00:00+08:00
+date: 2017-03-28T16:00:00+09:00
 description: After Hogwarts we are just in time for the afternoon parade.
 trip: Japan 2017
 place: Japan

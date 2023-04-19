@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Universal Studios Japan (USJ)'
-date: 2017-03-28T10:00:00+08:00
+date: 2017-03-28T10:00:00+09:00
 description: Universal Studios Japan (USJ) was the first theme park under the Universal Studios brand to be built in Asia.
 trip: Japan 2017
 place: Japan

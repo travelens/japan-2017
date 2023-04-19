@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: USJ - Hello Kitty'
-date: 2017-03-28T13:00:00+08:00
+date: 2017-03-28T13:00:00+09:00
 description: A superbly fashionable zone enchanting all females - from young girls to mature women.
 trip: Japan 2017
 place: Japan
