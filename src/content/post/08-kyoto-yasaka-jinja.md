@@ -5,7 +5,7 @@ description: Yasaka Shrine (八坂神社, Yasaka-jinja), once called Gion Shrine
 trip: Japan 2017
 place: Japan
 timezone: Japan
-location: KyYasaka-jinjaoto
+location: Yasaka-jinja
 image: ../../assets/gallery/08-kyoto-yasaka-jinja/Minami romon gate.jpeg
 gallery: 08-kyoto-yasaka-jinja
 map: [35.00349,135.77839,17]
