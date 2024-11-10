@@ -8,12 +8,13 @@ timezone: Japan
 location: Ghibli Museum
 image: ../../assets/gallery/01-ghibli-museum/Entrance.jpeg
 gallery: 01-ghibli-museum
-map: [35.69622,139.57043,18]
+map: [35.69622, 139.57043, 18]
 tags:
   - museum
   - Studio Ghibli
   - Tokyo
 ---
+
 We arrived in Mitaka to visit the [Ghibli Museum](https://www.ghibli-museum.jp/en/). Ghibli Museum is a very popular museum and attracts many visitors a year. It focuses on the famous Studio Ghibli animated films.
 The museum is located in Inokashira Park in Mitaka, a suburb of Tokyo. We caught a train there.
 

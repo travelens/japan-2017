@@ -8,13 +8,14 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-journey-usj/USJ train (1).jpeg
 gallery: 07-journey-usj
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
   - Universal Studios
   - Osaka
 ---
+
 Today we woke up and headed down for breakfast. It’s an exciting day because we are visiting Universal Studios Japan (USJ).
 
 Universal Studios Japan (ユニバーサル・スタジオ・ジャパン), is one of six Universal Studios theme parks, and is similar to the Universal Orlando Resort.

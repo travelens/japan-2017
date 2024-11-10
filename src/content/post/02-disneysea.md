@@ -8,19 +8,20 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-general/Chris Globe.jpeg
 gallery: 02-disneysea-general
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 Today we are visiting DisneySea, a unique theme park unlike the other Disney theme parks around the world. Walt Disney originally envisioned a nautical counterpart to Disneyland, but it was never built in his lifetime due to problems with Euro Disney.
 
 According to Wikipedia:
 
->Tokyo DisneySea (東京ディズニーシー) is a theme park at the Tokyo Disney Resort located in Urayasu, Chiba Prefecture, Japan, just outside Tokyo. It opened on 4 September 2001, at a cost of 335 billion yen. The Oriental Land Company owns the park, and licenses Disney characters and themes from The Walt Disney Company. With a size of 176-acre (71.22 ha), Tokyo DisneySea attracted nearly fifteen million visitors in 2018, making it the fourth-most-visited theme park in the world.
+> Tokyo DisneySea (東京ディズニーシー) is a theme park at the Tokyo Disney Resort located in Urayasu, Chiba Prefecture, Japan, just outside Tokyo. It opened on 4 September 2001, at a cost of 335 billion yen. The Oriental Land Company owns the park, and licenses Disney characters and themes from The Walt Disney Company. With a size of 176-acre (71.22 ha), Tokyo DisneySea attracted nearly fifteen million visitors in 2018, making it the fourth-most-visited theme park in the world.
 >
-> *Wikipedia*
+> _Wikipedia_
 
 The official website is available in [English](http://www.tokyodisneyresort.jp/en/tds/).
 

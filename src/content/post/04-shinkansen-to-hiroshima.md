@@ -8,12 +8,13 @@ timezone: Japan
 location: Okayama Station
 image: ../../assets/gallery/04-shinkansen-to-hiroshima/Okayama station shinkansen (1).jpeg
 gallery: 04-shinkansen-to-hiroshima
-map: [34.6640,133.9175,15]
+map: [34.6640, 133.9175, 15]
 tags:
   - Shinkansen
   - train
   - Hiroshima
 ---
+
 Today we had more time to finish our breakfasthe buffet starts at 6:30 and the train station is right next to the hotel. We are planning to board the Shinkansen to Hiroshima at 8.25am.
 
 It’s halfway on our trip, and I am already starting to wonder ... Will I ever be able to survive using a toilet seat without inbuilt bidet and spraying functions? I don’t need the music or flushing sound effects though (I think I am more than capable of creating my own symphony).

@@ -8,12 +8,13 @@ timezone: Japan
 location: Shinjuku
 image: ../../assets/gallery/10-tokyo-shinjuku-evening/Mirror in subway (1).jpeg
 gallery: 10-tokyo-shinjuku-evening
-map: [35.6891,139.7008,15]
+map: [35.6891, 139.7008, 15]
 tags:
   - Tokyo
   - Shinjuku
   - night
 ---
+
 We spend the rest of evening walking back from the Tokyo Metropolitan Goverment building along the subways and streets of Shinjuku.
 
 Incidentally, all throughout our trip we have experienced great weather, although a bit chilly. We remember on our trip 9 years ago, it rained pretty much every other day, so we have been incredibly fortunate that it has not rained significantly until now (it did rain the morning we left Hiroshima, but it cleared by the time arrived in Fukushima).

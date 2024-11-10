@@ -8,7 +8,7 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-parade/Parade confetti.jpeg
 gallery: 07-usj-parade
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
@@ -16,6 +16,7 @@ tags:
   - parade
   - Osaka
 ---
+
 Despite not securing reserved seats, we managed to get a very good vantage point with excellent lighting so I hope my video will come out well when I process it at home.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dc8LTJuevk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

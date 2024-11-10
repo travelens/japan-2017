@@ -8,16 +8,16 @@ timezone: Japan
 location: Hiroshima Atomic Bomb Dome
 image: ../../assets/gallery/05-hiroshima-atomic-bomb-dome/Atomic Bomb Dome (11).jpeg
 gallery: 05-hiroshima-atomic-bomb-dome
-map: [34.39547,132.45358,18]
+map: [34.39547, 132.45358, 18]
 tags:
   - Atomic Bomb Dome
   - building
   - historic
   - ruin
   - Hiroshima
-
 ---
-The Hiroshima Peace Memorial (広島平和記念碑), commonly called the Genbaku or Atomic Bomb Dome  (原爆ドーム), is part of the Hiroshima Peace Memorial Park.
+
+The Hiroshima Peace Memorial (広島平和記念碑), commonly called the Genbaku or Atomic Bomb Dome (原爆ドーム), is part of the Hiroshima Peace Memorial Park.
 
 The Genbaku Dome (aka Hiroshima Peace Memorial, or the Atomic Bomb Dome) is a former exhibition hall. The building is located very close to the hypocentre of the atomic blast.
 

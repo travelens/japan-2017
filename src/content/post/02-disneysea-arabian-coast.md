@@ -8,10 +8,11 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-arabian-coast/Caravan Carousel.jpeg
 gallery: 02-disneysea-arabian-coast
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 This is themed after Aladdin. It recreates an Arabian harbor combined with an "enchanted world from 1001 Arabian Nights".

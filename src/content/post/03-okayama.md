@@ -8,10 +8,11 @@ timezone: Japan
 location: Okayama
 image: ../../assets/gallery/03-okayama-city/Fountain.jpeg
 gallery: 03-okayama-city
-map: [34.6640,133.9175,15]
+map: [34.6640, 133.9175, 15]
 tags:
   - Okayama
 ---
+
 Okayama (岡山市) is the capital city of Okayama Prefecture
 
 ## Dinner and shopping

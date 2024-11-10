@@ -8,14 +8,14 @@ timezone: Japan
 location: Hiroshima Castle
 image: ../../assets/gallery/05-hiroshima-castle/Hiroshima Castle (4).jpeg
 gallery: 05-hiroshima-castle
-map: [34.4027,132.4590,16]
+map: [34.4027, 132.4590, 16]
 tags:
   - castle
   - historic
   - attraction
   - Hiroshima
-
 ---
+
 ## Hiroshima Castle
 
 Hiroshima Castle (広島城), also called Carp Castle (鯉城), was constructed in the 1590s, but destroyed by the atomic bomb on 1945 and rebuilt in 1958.

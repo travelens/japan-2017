@@ -8,7 +8,7 @@ timezone: Japan
 location: Osaka
 image: ../../assets/gallery/06-osaka-umeda/Hankyu Lobby.jpeg
 gallery: 06-osaka-umeda
-map: [34.6984,135.4872,15]
+map: [34.6984, 135.4872, 15]
 tags:
   - Osaka
   - shopping
@@ -17,6 +17,7 @@ tags:
   - Marumo
   - Yodobashi
 ---
+
 Osaka station is full of underground tunnels and we got lost in them – it was like a labyrinth and very hard to navigate as it was also rush hour.
 
 ![Flowers](../../assets/gallery/06-osaka-umeda/Flowers.jpeg)

@@ -8,7 +8,7 @@ timezone: Japan
 location: Hiroshima Peace Park
 image: ../../assets/gallery/05-hiroshima-peace-park/Flame of Peace.jpeg
 gallery: 05-hiroshima-peace-park
-map: [34.3931,132.4517,16]
+map: [34.3931, 132.4517, 16]
 tags:
   - art
   - attraction
@@ -17,6 +17,7 @@ tags:
   - sculpture
   - Hiroshima
 ---
+
 The Hiroshima Peace Park (広島平和記念公園) is a memorial park. It is dedicated to the legacy of Hiroshima as the first city in the world to suffer a nuclear attack, and to the memories of the bomb’s direct and indirect victims (of whom there may have been as many as 140,000). More than one million people each year visit this place.
 
 The Hiroshima Peace Park contains a number of structures which are memorials or dedications to peace. This includes the following:

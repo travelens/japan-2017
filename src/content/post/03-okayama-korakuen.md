@@ -8,12 +8,13 @@ timezone: Japan
 location: Korakuen
 image: ../../assets/gallery/03-okayama-korakuen/Jari jima island.jpeg
 gallery: 03-okayama-korakuen
-map: [34.6663,133.9362,15]
+map: [34.6663, 133.9362, 15]
 tags:
   - garden
   - Korakuen Garden
   - Okayama
 ---
+
 We decided to visit the Kōraku-en (後楽園) garden in Okayama next to the castle. It is one of the Three Great Gardens of Japan (along with Kenroku-en and Kairaku-en).
 
 The garden was completed in 1700 (after Okayama Castle). The original appearance has survived until today in more, with a few changes made along the way.

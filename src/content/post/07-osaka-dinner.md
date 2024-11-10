@@ -8,7 +8,7 @@ timezone: Japan
 location: Osaka
 image: ../../assets/gallery/07-osaka-dinner/Roma.jpeg
 gallery: 07-osaka-dinner
-map: [34.6984,135.4872,15]
+map: [34.6984, 135.4872, 15]
 tags:
   - Osaka
   - shopping
@@ -16,6 +16,7 @@ tags:
   - Roma
   - Umeda
 ---
+
 We didn’t get back to Osaka station till quite late. We tried a pasta place called Roma because I was hankering for a decent Italian but these place served a distinctively Japanese take on pasta.
 
 I tried the curry Neapolitan – and the spaghetti were actually udon noodles, plus a tomato based sauce with prawns and chop sum. On top is a layer of mushroom curry sauce.

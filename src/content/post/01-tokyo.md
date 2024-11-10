@@ -8,12 +8,13 @@ timezone: Japan
 location: Tokyo
 image: ../../assets/gallery/01-tokyo/Chris at Tokyo Station.jpeg
 gallery: 01-tokyo
-map: [35.6800,139.7682,14]
+map: [35.6800, 139.7682, 14]
 tags:
   - Haneda Airport
   - Tokyo Station
   - Tokyo
 ---
+
 ## Arrival in Tokyo
 
 Arrival in Tokyo was via Haneda airport, just as the sun rose. I pretty much slept all the way from take off to breakfast. Because I had dinner beforehand at the Qantas lounge, I asked the flight attendants not to disturb me and skipped the meal service.

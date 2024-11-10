@@ -8,7 +8,7 @@ timezone: Japan
 location: Hiroshima
 image: ../../assets/gallery/05-hiroshima-evening/Ekinishi (3).jpeg
 gallery: 05-hiroshima-evening
-map: [34.3958,132.4768,16]
+map: [34.3958, 132.4768, 16]
 tags:
   - city
   - sculpture
@@ -17,6 +17,7 @@ tags:
   - night
   - Hiroshima
 ---
+
 After the Peace Museum, we walked along the Peace Boulevard which had even more sculptures and monuments. We then turned towards Hatchobori, Hiroshima’s main shopping district. We went into a shopping centre called Parco which had a Rilakkuma pop up store and display as well as a Tower Records on the top floor. I bought 宇多田ヒカル’s latest album Fantome there as well as the 20th anniversary remix of her first album.
 
 ![Rilakkuma](../../assets/gallery/05-hiroshima-evening/Rilakkuma_1.jpeg)
@@ -29,7 +30,7 @@ The Hiroshima variant of the okonomiyaki is layered together with noodles so it�
 
 ![Okonomiyaki](../../assets/gallery/05-hiroshima-evening/Mitchan_3.jpeg)
 
-After dinner, we wandered around the district of "Ekinishi" just to the west of Hiroshima Station, 
+After dinner, we wandered around the district of "Ekinishi" just to the west of Hiroshima Station,
 sandwiched among the high-rises that are gradually taking over the area.
 
 Here there are tiny maze of streets full of tiny restaurants, bars and boutiques. Wandering into Ekinishi is like stepping back in time to the post war period, but it buzzes with energy.

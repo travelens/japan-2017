@@ -8,12 +8,13 @@ timezone: Japan
 location: Chion-in
 image: ../../assets/gallery/08-kyoto-chion-in/Chris, Otoko zaka.jpeg
 gallery: 08-kyoto-chion-in
-map: [35.0055,135.7832,16]
+map: [35.0055, 135.7832, 16]
 tags:
   - Chion-in
   - temple
   - Kyoto
 ---
+
 Chion-in (知恩院, Monastery of Gratitude) is the headquarters of the Jōdo-shū (Pure Land Sect) founded by Hōnen (1133–1212).
 
 Chion-in is a Pure Land Buddhism temple consisting of a colossal main gate (Sanmon), a huge temple building and Japan’s largest temple bell (which is what we stumbled into by accident coming from the wrong entrance).

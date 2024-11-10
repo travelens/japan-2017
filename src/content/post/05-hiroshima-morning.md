@@ -8,12 +8,13 @@ timezone: Japan
 location: Hiroshima
 image: ../../assets/gallery/05-hiroshima-morning/C59161 train.jpeg
 gallery: 05-hiroshima-morning
-map: [34.3983,132.4546,15]
+map: [34.3983, 132.4546, 15]
 tags:
   - Hiroshima
   - park
 ---
-Hiroshima  (広島市) is situated on the Ōta River delta, on Hiroshima Bay. The river's six channels divide Hiroshima into several islets.
+
+Hiroshima (広島市) is situated on the Ōta River delta, on Hiroshima Bay. The river's six channels divide Hiroshima into several islets.
 
 After 4 exhausting days, my body needs a rest. Today we are staying put in Hiroshima, so I rewarded myself by waking up late (7am), took my time getting ready and had breakfast at 8am.
 

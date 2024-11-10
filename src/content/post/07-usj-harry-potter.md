@@ -8,7 +8,7 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-harry-potter/Hogwarts (3).jpeg
 gallery: 07-usj-harry-potter
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
@@ -16,6 +16,7 @@ tags:
   - Harry Potter
   - Osaka
 ---
+
 ## The Wizarding World of Harry Potter
 
 The Wizarding World of Harry Potter is a themed area based on the Harry Potter series built at Universal Parks & Resorts' Universal Studios Japan theme park in Osaka, Japan. Not to be confused with Warner Bros. Studio Tour London - The Making of Harry Potter at Leavesden Studios, it is a collaboration of Universal Parks & Resorts and Warner Bros. Entertainment. It opened to the public on July 15, 2014.

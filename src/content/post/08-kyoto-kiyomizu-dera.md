@@ -8,14 +8,14 @@ timezone: Japan
 location: Kiyomizu-dera
 image: ../../assets/gallery/08-kyoto-kiyomizu-dera/Nio mon.jpeg
 gallery: 08-kyoto-kiyomizu-dera
-map: [34.99442,135.78448,17]
+map: [34.99442, 135.78448, 17]
 tags:
   - Kiyomizu-dera
   - street
   - temple
   - Kyoto
-
 ---
+
 Kiyomizu-dera (清水寺), formally Otowa-san Kiyomizu-dera (音羽山清水寺), is a Buddhist temple in eastern Kyoto.
 Kiyomizu-dera is part of the Historic Monuments of Ancient Kyoto and a UNESCO World Heritage site.
 

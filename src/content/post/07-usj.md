@@ -8,13 +8,14 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-entrance/Universal logo.jpeg
 gallery: 07-usj-entrance
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
   - Universal Studios
   - Osaka
 ---
+
 Opened in March 2001 in the Osaka Bay Area, the theme park occupies an area of 39 hectares and is the most visited amusement park in Japan after Tokyo Disney Resort.
 
 Universal Studios Japan currently has eight sections: Hollywood, New York, San Francisco, Jurassic Park, Waterworld, Amity Village, Universal Wonderland and The Wizarding World of Harry Potter.

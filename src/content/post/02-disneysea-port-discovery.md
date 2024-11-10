@@ -8,10 +8,11 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-port-discovery/Aquatopia (1).jpeg
 gallery: 02-disneysea-port-discovery
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 This "port of call" is home to the fictional 'Center for Weather Control' and has a vaguely "steampunk" look.

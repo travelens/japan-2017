@@ -8,13 +8,13 @@ timezone: Japan
 location: Tomonoura
 image: ../../assets/gallery/06-tomonoura/Joyato Stone Lighthouse (2).jpeg
 gallery: 06-tomonoura
-map: [34.3809,133.3803,15]
+map: [34.3809, 133.3803, 15]
 tags:
   - Studio Ghibli
   - Ponyo
   - Tomonoura
-
 ---
+
 Tomonoura (鞆の浦), formerly known as Tomonotsu, is a port and tiny fishing town near Fukuyama. It has been featured in a few movies, such as Ponyo and Wolverine.
 
 ## Journey

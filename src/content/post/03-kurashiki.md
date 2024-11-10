@@ -8,13 +8,14 @@ timezone: Japan
 location: Kurashiki
 image: ../../assets/gallery/03-kurashiki/Swan at Former Ohara Family Residence.jpeg
 gallery: 03-kurashiki
-map: [34.5959,133.7703,15]
+map: [34.5959, 133.7703, 15]
 tags:
   - historic
   - town
   - canal
   - Kurashiki
 ---
+
 Kurashiki (倉敷市) is a city located in western Okayama Prefecture.
 
 ## Bikan Historical Area

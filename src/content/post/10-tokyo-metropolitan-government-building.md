@@ -8,12 +8,13 @@ timezone: Japan
 location: Tokyo Metropolitan Government Building
 image: ../../assets/gallery/10-tokyo-metropolitan-government-building/Chris.jpeg
 gallery: 10-tokyo-metropolitan-government-building
-map: [35.6754,139.8193,16]
+map: [35.6754, 139.8193, 16]
 tags:
   - building
   - Metropolitan Government Building
   - Tokyo
 ---
+
 After lunch we walked to the Tokyo Metropolitan Government Building. This is a massive set of three buildings, with two observation decks on Level 45 on each tower of building No 1.
 
 The Tokyo Metropolitan Government Building (東京都庁舎), houses the headquarters of the Tokyo Metropolitan Government. It is the tallest city hall in the world.

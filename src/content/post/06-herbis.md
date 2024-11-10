@@ -8,13 +8,14 @@ timezone: Japan
 location: Herbis
 image: ../../assets/gallery/06-herbis/Sony Store Osaka, Chris.jpeg
 gallery: 06-herbis
-map: [34.69850,135.49280,17]
+map: [34.69850, 135.49280, 17]
 tags:
   - Osaka
   - shopping
   - Sony
   - Herbis
 ---
+
 After the Canon Digital House, we ventured into a shopping centre called [Herbis](https://www.herbis.jp/).
 
 There’s a Sony store here which we spent a long time trying to find. When we finally found it I bough a pair of headphones and some accessories for my camera and Walkman.

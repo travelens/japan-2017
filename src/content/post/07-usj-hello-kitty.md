@@ -8,7 +8,7 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-hello-kitty/Chris, red bow.jpeg
 gallery: 07-usj-hello-kitty
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
@@ -16,9 +16,10 @@ tags:
   - Hello Kitty
   - Osaka
 ---
+
 This is billed as:
 
->A superbly fashionable zone enchanting all females – from young girls to mature women.
+> A superbly fashionable zone enchanting all females – from young girls to mature women.
 
 (Men obviously need not bother)
 

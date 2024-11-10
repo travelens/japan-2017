@@ -9,13 +9,14 @@ timezone: Japan
 location: Imperial Palace East Garden
 image: ../../assets/gallery/09-tokyo-imperial-palace-east-garden/Ninomaru garden.jpeg
 gallery: 09-tokyo-imperial-palace-east-garden
-map: [35.6819,139.7619,14]
+map: [35.6819, 139.7619, 14]
 tags:
   - East Garden
   - garden
   - Imperial Palace
   - Tokyo
 ---
+
 Today we had to wake up early again, pack, check out, have a huge breakfast, and then make our way to Shin Osaka station to catch the Shinkansen to Tokyo.
 
 The journey was quite uneventful, and a bit shorter than I remember 9 years ago. Before we knew it, we have arrived at Shinagawa, and we changed over to the Yamanote line to take us to Shinjuku. We arrived in Shinjuku just after noon, and I was surprised how much the area around the station has changed.

@@ -8,13 +8,14 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-park/Best of the Best.jpeg
 gallery: 07-usj-park
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
   - Universal Studios
   - Osaka
 ---
+
 The tradition of dressing up in similar outfits visiting a theme park is present in USJ and Osakans tend to wear bolder and brighter colours than their Tokyo counterparts. Lots of people were wearing Minion yellow outfits but also various people in Harry Potter inspired outfits.
 
 We weren’t wearing a theme, but lots of people assumed we were because of our pink North Face rain jackets. I was even complimented on my pink outfit on several occasions – I wonder if they realise this is my normal wear and not a special outfit for USJ. Lots of people also noticed my pink Hello Kitty decorated Sony camera.

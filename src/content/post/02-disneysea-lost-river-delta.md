@@ -8,10 +8,11 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-lost-river-delta/Entering the tunnel.jpeg
 gallery: 02-disneysea-lost-river-delta
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 Located at the back of the park, the dominant structure in this "port of call" is the ruins of an ancient Aztec pyramid.

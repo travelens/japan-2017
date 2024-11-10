@@ -9,15 +9,15 @@ timezone: Japan
 location: Shinjuku Gyoen
 image: ../../assets/gallery/10-tokyo-shinjuku-gyoen/Park Hyatt, Kamino ike.jpeg
 gallery: 10-tokyo-shinjuku-gyoen
-map: [35.6851,139.7099,15]
+map: [35.6851, 139.7099, 15]
 tags:
   - garden
   - Shinjuku Gyoen
   - spring
   - cherry blossom
   - Tokyo
-
 ---
+
 Today is our last day in Japan, and we are flying back to Sydney tonight.
 
 Last night turned out to be quite eventful. First of all, we were woken up in the middle of the night by an announcement that came over the public address system. Apparently, the fire alarm has been triggered and they assured us that the fire department has checked it out and it was a false alarm.

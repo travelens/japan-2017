@@ -8,14 +8,14 @@ timezone: Japan
 location: Miyajima
 image: ../../assets/gallery/04-miyajima/O torii gate, Chris (1).jpeg
 gallery: 04-miyajima
-map: [34.2714,132.3054,12]
+map: [34.2714, 132.3054, 12]
 tags:
   - island
   - temple
   - shrine
   - Miyajima
-
 ---
+
 Miyajima (宮島), or "Shrine Island", is an island in the northwest of Hiroshima Bay, part of the Seto Inland Sea of Japan. It's formal name is Itsukushima (厳島).
 
 The famous O-Torii gate is part of Itsukushima Shrine, a UNESCO World Heritage Site.

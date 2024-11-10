@@ -8,12 +8,13 @@ timezone: Japan
 location: Hiroshima Peace Museum
 image: ../../assets/gallery/05-hiroshima-peace-museum/The devastated city (2).jpeg
 gallery: 05-hiroshima-peace-museum
-map: [34.39163,132.45254,17]
+map: [34.39163, 132.45254, 17]
 tags:
   - attraction
   - museum
   - Peace Museum
   - Hiroshima
 ---
+
 The Hiroshima Peace Memorial Museum is dedicated to documenting the atomic bombing of Hiroshima in World War II.
 They say the Peace Museum is quite confronting - we found it terribly crowded and quite hard to see some of the exhibits.

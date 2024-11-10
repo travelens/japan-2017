@@ -8,13 +8,14 @@ timezone: Japan
 location: Mt Misen
 image: ../../assets/gallery/04-mt-misen/Mt Misen summit.jpeg
 gallery: 04-mt-misen
-map: [34.27959,132.31961,17]
+map: [34.27959, 132.31961, 17]
 tags:
   - mountain
   - Mt Misen
   - temple
   - Miyajima
 ---
+
 ## Journey
 
 After exploring the shrine and other buildings in the lowlands, we walked to the ropeway station, called Miyajima Ropeway. We boarded a cable car up Mt Misen.

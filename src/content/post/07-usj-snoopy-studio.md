@@ -8,7 +8,7 @@ timezone: Japan
 location: USJ
 image: ../../assets/gallery/07-usj-snoopy-studio/Chris, Snoopy Studios.jpeg
 gallery: 07-usj-snoopy-studio
-map: [34.6664,135.4320,15]
+map: [34.6664, 135.4320, 15]
 tags:
   - attraction
   - theme park
@@ -16,4 +16,5 @@ tags:
   - Snoopy
   - Osaka
 ---
+
 Based on the Peanuts comic strip. Snoopy Studios was originally its own standalone area, opening with the park in April 2001 before becoming part of Universal Wonderland in 2012.

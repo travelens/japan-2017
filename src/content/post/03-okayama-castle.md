@@ -8,15 +8,15 @@ timezone: Japan
 location: Okayama Castle
 image: ../../assets/gallery/03-okayama-castle/Chris Okayama Castle.jpeg
 gallery: 03-okayama-castle
-map: [34.66521,133.93606,17]
+map: [34.66521, 133.93606, 17]
 tags:
   - historic
   - attraction
   - castle
   - Okayama Castle
   - Okayama
-
 ---
+
 Today we had to get up early to visit Okayama. First stop is Okayama Castle.
 
 ## Journey to Okayama

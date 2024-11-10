@@ -8,12 +8,13 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-mediterranean-harbour/Chris at harbour east.jpeg
 gallery: 02-disneysea-mediterranean-harbour
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 DisneySea is quite different from the other Disney theme parks we have visited. The entrance leads us to a mock set of Italian looking buildings facing a harbour. Overall the look was a cross between Venice and Florence with even a replica of the Ponte Vecchio.
 
 Mediterranean Harbor (American spelling) is the entrance “port-of-call” and themed as an Italian port city, with Venetian Gondolas that guests can board and ride.

@@ -8,10 +8,11 @@ timezone: Japan
 location: Tokyo DisneySea
 image: ../../assets/gallery/02-disneysea-old-cape-cod/Sailing ship.jpeg
 gallery: 02-disneysea-old-cape-cod
-map: [35.6268,139.8723,14]
+map: [35.6268, 139.8723, 14]
 tags:
   - DisneySea
   - theme park
   - Tokyo
 ---
+
 “Old Cape Cod” is part of the "American Waterfront" port. I did think the lighthouse was not that impressive and rather short.
