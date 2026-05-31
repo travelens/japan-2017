@@ -3,7 +3,7 @@
   "author": "Chris Tham (chris@christham.net)",
   "description": "We returned to Japan in 2017 and visited Tokyo, then headed down south to Okayama and Hiroshima, returning via Osaka and Kyoto.",
   "license": "MIT",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
